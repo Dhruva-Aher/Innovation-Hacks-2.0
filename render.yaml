@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: fabric-ai-studio
+    env: docker
+    plan: free
